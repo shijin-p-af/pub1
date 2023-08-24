@@ -1,4 +1,4 @@
-# This is a public repo
+# This is from a public repo
 ### AGENDA
 1. Md file - load from public repo
-2. With firwall
+2. With firewall
