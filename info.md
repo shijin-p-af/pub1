@@ -19,7 +19,11 @@
 <img src="./images/sc.png" alt="My Image1">
 5. An svg from adjascent folder - using html tags
 <img src="./images/img.svg" alt="My Image2">
-6. image from url
-![a test image](https://appfire.atlassian.net/s/-3o5b4z/b/5/82f6e744913c24ea6f485f07262683e6/_/jira-logo-scaled.png)
-7. image from url
+
+6. A png from url using md syntax
+
+![](https://cf-assets.www.cloudflare.com/slt3lc6tev37/25o3hviYfl8DqE5ETgjKJZ/3916e342ca917ec67c6dabe9da1cfd6c/verticals-spot-illustration.png)
+
+7. A svg from url using md syntax
+
 ![](https://github.com/fastify/graphics/raw/HEAD/fastify-landscape-outlined.svg)
