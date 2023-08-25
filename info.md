@@ -1,7 +1,7 @@
 
 ### A test md file
 
-1. image from url
+1. image from url - using html
 <div align="center"> <a href="https://fastify.io/">
     <img
       src="https://github.com/fastify/graphics/raw/HEAD/fastify-landscape-outlined.svg"
@@ -15,3 +15,7 @@
 ![image info](./images/sc.png)
 3. An svg from adjascent folder
 ![image info](./images/img.svg)
+4. A png image from adjascent folder - using html tags
+<img src="./images/sc.png" alt="My Image1">
+5. An svg from adjascent folder - using html tags
+<img src="./images/img.svg" alt="My Image2">
