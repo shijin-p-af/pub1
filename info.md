@@ -21,7 +21,7 @@
 
 
 2. A png image from adjascent folder
-![test image](./images/sc.png)
+![test image](/images/sc.png)
 3. An svg from adjascent folder
 ![image info](./images/img.svg)
 4. A png image from adjascent folder - using html tags
