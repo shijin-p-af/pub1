@@ -20,3 +20,12 @@ An image from web below
 
 ### img a tag
 <a href='./images/afire.png'>Click here to view app fire logo</a>
+
+### img html abs url
+<div align="center">
+    <img
+      src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_dark_color_92x30dp.png"
+      width="250"
+      height="auto"
+    />
+</div>
