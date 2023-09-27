@@ -18,8 +18,14 @@ An image from web below
     />
 </div>
 
-### img a tag
-<a href='./images/afire.png'>Click here to view app fire logo</a>
+### img html - root dir
+<div align="center">
+    <img
+      src="/images/afire.png"
+      width="250"
+      height="auto"
+    />
+</div>
 
 ### img html abs url
 <div align="center">
