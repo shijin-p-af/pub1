@@ -5,7 +5,7 @@
 
 A relative image below
 
-![text info](./images/appfire.png)
+![text info](./images/afire.png)
 
 An image from web below
 
