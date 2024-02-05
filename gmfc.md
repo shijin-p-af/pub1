@@ -218,9 +218,10 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 ### Mermaid
 
-flowchart LR
-
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+```mermaid
+graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+```
